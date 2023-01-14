@@ -1,0 +1,12 @@
+root = true
+
+[*]
+indent_size = 4
+indent_style = space
+charset = utf-8
+
+[Makefile]
+indent_style = tab
+
+[*.{js,json,ts,tsx,yml,yaml,html,css}]
+indent_size = 2
